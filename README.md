@@ -54,15 +54,10 @@ I am a curious and adaptable professional with a hybrid background. My roots in 
 <code><img height="40" width="40" src="/assets/icons/java.png"></code>
 <code><img height="40" width="40" src="/assets/icons/javaswing.png"></code>
 <code><img height="40" width="40" src="/assets/icons/bootstrap.png"></code>
-<code><img height="40" width="40" src="/assets/icons/kotlin.png"></code>
 <code><img height="40" width="40" src="/assets/icons/py.png"></code>
 <code><img height="40" width="40" src="/assets/icons/android.png"></code>
 <code><img height="40" width="40" src="/assets/icons/appscript.png"></code>
 <code><img height="40" width="40" src="/assets/icons/docker.png"></code>
-<code><img height="40" width="40" src="/assets/icons/git.png"></code>
-<code><img height="40" width="40" src="/assets/icons/inteliji.png"></code>
-<code><img height="40" width="40" src="/assets/icons/VSC.png"></code>
-<code><img height="40" width="40" src="/assets/icons/node.png"></code>
 <code><img height="40" width="40" src="/assets/icons/odoo.png"></code>
 <code><img  width="30" src="/assets/icons/figma.png"></code>
 <code><img height="40" width="40" src="/assets/icons/n8n.png"></code>
@@ -70,7 +65,6 @@ I am a curious and adaptable professional with a hybrid background. My roots in 
 <code><img height="40" width="40" src="/assets/icons/postgres.png"></code>.
 <code><img  width="20" src="/assets/icons/mongo.png"></code>
 <code><img  width="60" src="/assets/icons/mysql.png"></code>
-<code><img height="40" width="40" src="/assets/icons/dbeaver.png"></code>
 <code><img height="40" width="40" src="/assets/icons/windows.png"></code>
 <code><img  width="50" src="/assets/icons/linux.png"></code>
 <code><img height="40" width="40" src="/assets/icons/kali.png"></code>
